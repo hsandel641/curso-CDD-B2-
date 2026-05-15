@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260515130514D3M0GF</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260515130514RNQD19</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Resolvemos problemas reales:Matemáticas en acción</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Hiniesta Sánchez Delgado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>proyecto sobre resolución de matemáticas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778842949360</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>d3f12b67-2fe9-4e50-94e5-0649a2ae792c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>d3f12b67-2fe9-4e50-94e5-0649a2ae792c</odePageId>
+      <odeBlockId>block-1778841296092-9ydscjst2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>d3f12b67-2fe9-4e50-94e5-0649a2ae792c</odePageId>
+          <odeBlockId>block-1778841296092-9ydscjst2</odeBlockId>
+          <odeIdeviceId>idevice-1778841296086-gyhzrfusj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">“Resolvemos problemas reales: Matemáticas digitales en acción”<br />Este proyecto está dirigido al alumnado de 6º de Educación Primaria y nace con la intención de trabajar las matemáticas de una forma más cercana, práctica y motivadora para el alumnado. A través de situaciones reales y contextualizadas, los alumnos y alumnas desarrollarán la resolución de problemas utilizando operaciones con números decimales, estrategias matemáticas y herramientas digitales.</p>
+<p style="text-align: justify;">La propuesta combina metodologías activas, aprendizaje cooperativo y competencia digital, favoreciendo que el alumnado tenga un papel protagonista en su propio aprendizaje. Durante el desarrollo del proyecto, trabajarán en pequeños grupos organizados mediante roles cooperativos, lo que permitirá mejorar la participación, la organización y la colaboración entre compañeros.</p>
+<p style="text-align: justify;">Además de los contenidos matemáticos, el proyecto también pretende desarrollar otras competencias importantes, como la comunicación oral, la autonomía, el pensamiento crítico y el uso responsable y seguro de la tecnología. Para ello, se utilizarán herramientas digitales como Canva para crear presentaciones y Padlet como espacio de organización y recopilación de recursos.</p>
+<p style="text-align: justify;">El producto final será una “Feria de Problemas Matemáticos”, donde cada grupo presentará de manera visual y oral la resolución de un problema real, explicando paso a paso el procedimiento seguido y las estrategias utilizadas. De esta forma, el alumnado no solo resolverá problemas, sino que aprenderá a comunicar, justificar y compartir sus aprendizajes con los demás.</p>
+<p style="text-align: justify;">Este proyecto surge también de la reflexión sobre experiencias previas en el aula y de la necesidad de mejorar algunos aspectos de la práctica docente, como la organización del trabajo cooperativo, la atención a la diversidad o la planificación del uso de la tecnología. Por ello, se han incorporado instrucciones más estructuradas, apoyos visuales, actividades secuenciadas y estrategias para anticipar posibles dificultades técnicas o de aprendizaje.</p>
+<p style="text-align: justify;">En definitiva, “Resolvemos problemas reales: Matemáticas digitales en acción” busca convertir las matemáticas en una experiencia más activa, significativa y conectada con la realidad del alumnado, favoreciendo un aprendizaje competencial, inclusivo y motivador.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778841296086-gyhzrfusj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">“Resolvemos problemas reales: Matemáticas digitales en acción”<br />Este proyecto está dirigido al alumnado de 6º de Educación Primaria y nace con la intención de trabajar las matemáticas de una forma más cercana, práctica y motivadora para el alumnado. A través de situaciones reales y contextualizadas, los alumnos y alumnas desarrollarán la resolución de problemas utilizando operaciones con números decimales, estrategias matemáticas y herramientas digitales.</p>\n<p style=\"text-align: justify;\">La propuesta combina metodologías activas, aprendizaje cooperativo y competencia digital, favoreciendo que el alumnado tenga un papel protagonista en su propio aprendizaje. Durante el desarrollo del proyecto, trabajarán en pequeños grupos organizados mediante roles cooperativos, lo que permitirá mejorar la participación, la organización y la colaboración entre compañeros.</p>\n<p style=\"text-align: justify;\">Además de los contenidos matemáticos, el proyecto también pretende desarrollar otras competencias importantes, como la comunicación oral, la autonomía, el pensamiento crítico y el uso responsable y seguro de la tecnología. Para ello, se utilizarán herramientas digitales como Canva para crear presentaciones y Padlet como espacio de organización y recopilación de recursos.</p>\n<p style=\"text-align: justify;\">El producto final será una “Feria de Problemas Matemáticos”, donde cada grupo presentará de manera visual y oral la resolución de un problema real, explicando paso a paso el procedimiento seguido y las estrategias utilizadas. De esta forma, el alumnado no solo resolverá problemas, sino que aprenderá a comunicar, justificar y compartir sus aprendizajes con los demás.</p>\n<p style=\"text-align: justify;\">Este proyecto surge también de la reflexión sobre experiencias previas en el aula y de la necesidad de mejorar algunos aspectos de la práctica docente, como la organización del trabajo cooperativo, la atención a la diversidad o la planificación del uso de la tecnología. Por ello, se han incorporado instrucciones más estructuradas, apoyos visuales, actividades secuenciadas y estrategias para anticipar posibles dificultades técnicas o de aprendizaje.</p>\n<p style=\"text-align: justify;\">En definitiva, “Resolvemos problemas reales: Matemáticas digitales en acción” busca convertir las matemáticas en una experiencia más activa, significativa y conectada con la realidad del alumnado, favoreciendo un aprendizaje competencial, inclusivo y motivador.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778840866609-jq7zc23d1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Información dirigida al alumnado sobre protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información dirigida al alumnado sobre protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778840866609-jq7zc23d1</odePageId>
+      <odeBlockId>block-1778841625715-js5t5p43h</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778840866609-jq7zc23d1</odePageId>
+          <odeBlockId>block-1778841625715-js5t5p43h</odeBlockId>
+          <odeIdeviceId>idevice-1778841625712-5fsl7h3vw</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778841625712-5fsl7h3vw" title="" href="{{context_path}}/content/resources/571d4aff-a307-ac9e-2f82-6bec35863a94.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/571d4aff-a307-ac9e-2f82-6bec35863a94.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778841625712-5fsl7h3vw","img_0":{"img":"{{context_path}}/content/resources/571d4aff-a307-ac9e-2f82-6bec35863a94.png","thumbnail":"{{context_path}}/content/resources/571d4aff-a307-ac9e-2f82-6bec35863a94.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778840889527-jgf9excdw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final que deberá elaborar el alumnado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final que deberá elaborar el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778840889527-jgf9excdw</odePageId>
+      <odeBlockId>block-1778841582176-v6gn204pw</odeBlockId>
+      <blockName>“Feria de Problemas Matemáticos”</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778840889527-jgf9excdw</odePageId>
+          <odeBlockId>block-1778841582176-v6gn204pw</odeBlockId>
+          <odeIdeviceId>idevice-1778841582173-dyj9778aa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎪 DESCRIPCIÓN DETALLADA DEL PRODUCTO FINAL<br />“Feria de Problemas Matemáticos”<br />El producto final de esta Situación de Aprendizaje consistirá en la realización de una “Feria de Problemas Matemáticos”, una actividad final en la que el alumnado, organizado en pequeños grupos cooperativos, presentará la resolución de un problema matemático contextualizado en una situación real y cercana a su entorno.</p>
+<p>Cada grupo deberá seleccionar o resolver un problema relacionado con contenidos trabajados durante el proyecto, especialmente operaciones con números decimales y estrategias de resolución de problemas. A partir de ello, elaborarán una presentación digital utilizando herramientas como Canva, donde explicarán de forma visual, clara y ordenada todo el proceso seguido para llegar a la solución.</p>
+<p>La presentación deberá incluir:</p>
+<p>El planteamiento del problema<br />La comprensión y análisis de los datos<br />Las operaciones realizadas<br />La estrategia utilizada para resolverlo<br />La solución final razonada<br />Imágenes, gráficos o elementos visuales que faciliten la comprensión<br />Además, el alumnado tendrá que preparar una exposición oral en la que explicará al resto de compañeros y compañeras cómo han trabajado, qué dificultades han encontrado y qué estrategias les han ayudado a resolver el problema.</p>
+<p>La feria se desarrollará como un espacio dinámico y participativo dentro del aula o en otro espacio del centro, donde cada grupo dispondrá de un pequeño “stand” o rincón de exposición. Allí mostrarán su presentación digital y compartirán sus aprendizajes con los demás grupos, fomentando la comunicación matemática, el trabajo cooperativo y el aprendizaje entre iguales.</p>
+<p>Durante todo el proceso, el alumnado deberá hacer un uso responsable, seguro y crítico de las tecnologías digitales, respetando las normas de seguridad digital trabajadas previamente en el proyecto, especialmente en relación con el uso de imágenes, datos personales y recursos digitales.</p>
+<p>Este producto final no se centra únicamente en obtener una respuesta correcta, sino en valorar todo el proceso de aprendizaje:</p>
+<p>La comprensión matemática<br />La capacidad para explicar razonamientos<br />La colaboración dentro del grupo<br />La creatividad<br />La competencia digital<br />La autonomía y participación<br />La “Feria de Problemas Matemáticos” pretende convertir el aprendizaje de las matemáticas en una experiencia más motivadora, práctica y significativa, permitiendo que el alumnado sea protagonista de su propio aprendizaje y pueda mostrar de manera activa todo lo trabajado a lo largo del proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778841582173-dyj9778aa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🎪 DESCRIPCIÓN DETALLADA DEL PRODUCTO FINAL<br />“Feria de Problemas Matemáticos”<br />El producto final de esta Situación de Aprendizaje consistirá en la realización de una “Feria de Problemas Matemáticos”, una actividad final en la que el alumnado, organizado en pequeños grupos cooperativos, presentará la resolución de un problema matemático contextualizado en una situación real y cercana a su entorno.</p>\n<p>Cada grupo deberá seleccionar o resolver un problema relacionado con contenidos trabajados durante el proyecto, especialmente operaciones con números decimales y estrategias de resolución de problemas. A partir de ello, elaborarán una presentación digital utilizando herramientas como Canva, donde explicarán de forma visual, clara y ordenada todo el proceso seguido para llegar a la solución.</p>\n<p>La presentación deberá incluir:</p>\n<p>El planteamiento del problema<br />La comprensión y análisis de los datos<br />Las operaciones realizadas<br />La estrategia utilizada para resolverlo<br />La solución final razonada<br />Imágenes, gráficos o elementos visuales que faciliten la comprensión<br />Además, el alumnado tendrá que preparar una exposición oral en la que explicará al resto de compañeros y compañeras cómo han trabajado, qué dificultades han encontrado y qué estrategias les han ayudado a resolver el problema.</p>\n<p>La feria se desarrollará como un espacio dinámico y participativo dentro del aula o en otro espacio del centro, donde cada grupo dispondrá de un pequeño “stand” o rincón de exposición. Allí mostrarán su presentación digital y compartirán sus aprendizajes con los demás grupos, fomentando la comunicación matemática, el trabajo cooperativo y el aprendizaje entre iguales.</p>\n<p>Durante todo el proceso, el alumnado deberá hacer un uso responsable, seguro y crítico de las tecnologías digitales, respetando las normas de seguridad digital trabajadas previamente en el proyecto, especialmente en relación con el uso de imágenes, datos personales y recursos digitales.</p>\n<p>Este producto final no se centra únicamente en obtener una respuesta correcta, sino en valorar todo el proceso de aprendizaje:</p>\n<p>La comprensión matemática<br />La capacidad para explicar razonamientos<br />La colaboración dentro del grupo<br />La creatividad<br />La competencia digital<br />La autonomía y participación<br />La “Feria de Problemas Matemáticos” pretende convertir el aprendizaje de las matemáticas en una experiencia más motivadora, práctica y significativa, permitiendo que el alumnado sea protagonista de su propio aprendizaje y pueda mostrar de manera activa todo lo trabajado a lo largo del proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778840904480-5o8fx2jfd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778840904480-5o8fx2jfd</odePageId>
+      <odeBlockId>block-1778841676695-efv0923zk</odeBlockId>
+      <blockName>symbaloo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778840904480-5o8fx2jfd</odePageId>
+          <odeBlockId>block-1778841676695-efv0923zk</odeBlockId>
+          <odeIdeviceId>idevice-1778841676694-l37ftzrqu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/home/mix/13eOcXM50M">https://www.symbaloo.com/home/mix/13eOcXM50M</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778841676694-l37ftzrqu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/home/mix/13eOcXM50M\">https://www.symbaloo.com/home/mix/13eOcXM50M</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778840904480-5o8fx2jfd</odePageId>
+      <odeBlockId>block-1778841817325-yqmn7iuph</odeBlockId>
+      <blockName>padlet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778840904480-5o8fx2jfd</odePageId>
+          <odeBlockId>block-1778841817325-yqmn7iuph</odeBlockId>
+          <odeIdeviceId>idevice-1778841817323-ooxsobnhg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://padlet.com/hsandel641/recursos-para-la-feria-de-problemas-6-primaria-6s41hx3ou0ix74s9">https://padlet.com/hsandel641/recursos-para-la-feria-de-problemas-6-primaria-6s41hx3ou0ix74s9</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778841817323-ooxsobnhg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/hsandel641/recursos-para-la-feria-de-problemas-6-primaria-6s41hx3ou0ix74s9\">https://padlet.com/hsandel641/recursos-para-la-feria-de-problemas-6-primaria-6s41hx3ou0ix74s9</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778840922120-wb8mjftvv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal que presenta de forma organizada las actividades y tareas del proyecto</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal que presenta de forma organizada las actividades y tareas del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778840922120-wb8mjftvv</odePageId>
+      <odeBlockId>block-1778842132415-zfjpdtpow</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778840922120-wb8mjftvv</odePageId>
+          <odeBlockId>block-1778842132415-zfjpdtpow</odeBlockId>
+          <odeIdeviceId>idevice-1778842132409-6jjeai01a</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778842132409-6jjeai01a" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.48.23.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.48.23.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1778842132409-6jjeai01a" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.48.33.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.48.33.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1778842132409-6jjeai01a" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.48.16.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.48.16.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1778842132409-6jjeai01a" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.47.59.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.47.59.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778842132409-6jjeai01a","img_1":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.48.23.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.48.23.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.48.33.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.48.33.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.48.16.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.48.16.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_4":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.47.59.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.47.59.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778840940284-8asm4vkaj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación asociados a las actividades</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación asociados a las actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778840940284-8asm4vkaj</odePageId>
+      <odeBlockId>block-1778842595692-yoz5c0t59</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778840940284-8asm4vkaj</odePageId>
+          <odeBlockId>block-1778842595692-yoz5c0t59</odeBlockId>
+          <odeIdeviceId>idevice-1778842595685-qjnrone5d</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778842595685-qjnrone5d" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.06.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.06.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1778842595685-qjnrone5d" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.15.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.15.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1778842595685-qjnrone5d" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.23.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.23.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1778842595685-qjnrone5d" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.31.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.31.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778842595685-qjnrone5d","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.06.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.06.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.15.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.15.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.23.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.23.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.31.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.56.31.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778840960972-lo0zsdjo8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778840960972-lo0zsdjo8</odePageId>
+      <odeBlockId>block-1778842764560-evudy4i0j</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778840960972-lo0zsdjo8</odePageId>
+          <odeBlockId>block-1778842764560-evudy4i0j</odeBlockId>
+          <odeIdeviceId>idevice-1778842764559-yroun80an</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1Pd2d84WJuA9IKizqKdqB7YCv56FbVl6ikegjj9RaJDY/edit?tab=t.t6qswrkza4yf">https://docs.google.com/document/d/1Pd2d84WJuA9IKizqKdqB7YCv56FbVl6ikegjj9RaJDY/edit?tab=t.t6qswrkza4yf</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778842764559-yroun80an","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1Pd2d84WJuA9IKizqKdqB7YCv56FbVl6ikegjj9RaJDY/edit?tab=t.t6qswrkza4yf\">https://docs.google.com/document/d/1Pd2d84WJuA9IKizqKdqB7YCv56FbVl6ikegjj9RaJDY/edit?tab=t.t6qswrkza4yf</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778842644611-frc089ddp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778842644611-frc089ddp</odePageId>
+      <odeBlockId>block-1778842961661-xi5mie4v0</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778842644611-frc089ddp</odePageId>
+          <odeBlockId>block-1778842961661-xi5mie4v0</odeBlockId>
+          <odeIdeviceId>idevice-1778842961660-bsnvnpwn8</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Resolvemos problemas reales:Matemáticas en acción</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">proyecto sobre resolución de matemáticas</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Hiniesta Sánchez Delgado</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
